@@ -51,7 +51,7 @@ Real-Time-Job-Market-Analytics/
 │   └── job_market_analysis.sql
 │
 ├── Screenshots/
-│   └── dashboard.png
+│   └── Dashboard.png
 │
 └── README.md
 ```
