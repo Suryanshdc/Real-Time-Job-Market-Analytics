@@ -97,7 +97,7 @@ Real-Time-Job-Market-Analytics/
 > Add your dashboard screenshot inside the **screenshots** folder and update the image below.
 
 ```md
-![Dashboard Preview](./Screenshots/Dashboard.png)
+![Dashboard Preview](Real-Time-Job-Market-Analytics/Screenshots/Dashboard.png)
 ```
 
 ---
